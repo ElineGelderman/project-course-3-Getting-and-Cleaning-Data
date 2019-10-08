@@ -1,7 +1,7 @@
-##Source Data <br /> 
+## Source Data <br /> 
 The data and description of the data can be found here http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-##Data set information <br /> 
+## Data set information <br /> 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six 
 activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the 
 waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant 
@@ -14,7 +14,7 @@ components, was separated using a Butterworth low-pass filter into body accelera
 have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was 
 obtained by calculating variables from the time and frequency domain.
 
-##Attribute Information: <br /> 
+## Attribute Information: <br /> 
 For each record in the dataset it is provided:
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
 - Triaxial Angular velocity from the gyroscope.
