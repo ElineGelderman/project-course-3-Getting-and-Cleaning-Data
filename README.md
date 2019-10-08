@@ -13,6 +13,6 @@
 1. Tidy data set: https://github.com/ElineGelderman/project-course-3-Getting-and-Cleaning-Data/blob/master/tidyData.txt
 2. Github repo: https://github.com/ElineGelderman/project-course-3-Getting-and-Cleaning-Data
 3. code book: https://github.com/ElineGelderman/project-course-3-Getting-and-Cleaning-Data/blob/master/CodeBook.md
-4. README: https://github.com/ElineGelderman/project-course-3-Getting-and-Cleaning-Data/edit/master/README.md
+4. README: https://github.com/ElineGelderman/project-course-3-Getting-and-Cleaning-Data/blob/master/README.md
 5. Analysis R script: https://github.com/ElineGelderman/project-course-3-Getting-and-Cleaning-Data/blob/master/run_analysis.R
 
